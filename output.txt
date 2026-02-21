@@ -1,0 +1,16 @@
+THREADS SOCIAL NETWORK ANALYSIS
+
+NETWORK STRUCTURE:
+Bob -> [David]
+Alice -> [Bob, Carol]
+David -> []
+Carol -> [Bob]
+
+DEGREE CENTRALITY:
+Bob: 1
+Alice: 2
+David: 0
+Carol: 1
+
+SHORTEST PATH (Alice -> David):
+[Alice, Bob, David]
